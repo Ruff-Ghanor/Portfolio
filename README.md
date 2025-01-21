@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - Leonardo Oliveira
 ### Work throughout the years
 
 I've worked for more than 5 years as a QA in the game industry, on PC, consoles and mobile games across different genres based on Unity and Unreal.
