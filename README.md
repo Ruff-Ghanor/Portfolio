@@ -14,6 +14,8 @@ Most recently, I had the opportunity to engage in game localization from English
 * **Slack, Discord and Zoom** communication
 * **XCode** in Mac OS for build installing mobile and log viewing
 * **Charles Web Proxy** for mobile debugging
+* **Jenkins and Teamcity** to get new build versions
+* **Firebase with Crashlytics** for crash monitoring
 * **Unity** for direct engine build testing and coding as a hobby
 
 ### Platforms tested on:
