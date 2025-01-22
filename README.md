@@ -28,7 +28,7 @@ Most recently, I had the opportunity to engage in game localization from English
 
 ### Games worked on:
 
-| **Riot Games** |||
+| **Riot Games** (as player support while doing QA work) |||
 | ----------- | ----------- | ----------- |
 | **League of Legends** | **Valorant** | **Legends of Runeterra** |
 | [![](https://img.youtube.com/vi/FiSNHAJHu-c/0.jpg)](https://www.youtube.com/watch?v=FiSNHAJHu-c) | [![](https://img.youtube.com/vi/IhhjcB2ZjIM/0.jpg)](https://www.youtube.com/watch?v=IhhjcB2ZjIM) | [![](https://img.youtube.com/vi/zDS1qCrFuCU/0.jpg)](https://www.youtube.com/watch?v=zDS1qCrFuCU) |
