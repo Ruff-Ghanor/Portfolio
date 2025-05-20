@@ -41,6 +41,9 @@ Most recently, I had the opportunity to engage in game localization from English
 | **Fire Hose Games** |
 | **Techtonica** |
 | [![](https://img.youtube.com/vi/_IB2LLH3yY4/0.jpg)](https://www.youtube.com/watch?v=_IB2LLH3yY4) |
+| **Big Moxi Games** |
+| **ExoGP** |
+| [![](https://img.youtube.com/vi/AKiI4p1jxUI/0.jpg)](https://www.youtube.com/watch?v=AKiI4p1jxUI) |
 
 
 
