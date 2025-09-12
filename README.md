@@ -1,9 +1,9 @@
 # Portfolio - Leonardo Oliveira
 ### Work throughout the years
 
-I've worked for more than 5 years as a QA in the game industry, on PC, consoles and mobile games across different genres based on Unity and Unreal.
-Throughout these years I learned how to find the best routes to test new features, how to figure out the reproduction methods of bugs the players bring us and the ones we find while testing. On my first workplace as a Player Support I learned how to better understand player needs and the bugs they find via their descriptions, screenshots, videos and logs, this pairs nicely with the QA work as it allows direct contact with players and speeds up bug resolution on Live Ops games and Early Access.
-Most recently, I had the opportunity to engage in game localization from English to Portuguese, which sparked a new passion of mine and expanded my skill set. 
+I’m a QA professional with over 5 years of experience in the game industry, working on PC, console, and mobile titles across multiple genres, using Unity and Unreal Engine.
+My expertise lies in designing efficient test strategies, identifying and reproducing complex bugs, and collaborating with development teams to ensure stable releases. My experience also includes working in Player Support, where I developed strong communication and analytical skills by interpreting player reports through descriptions, screenshots, videos, and logs — greatly enhancing bug resolution during Live Ops and Early Access stages.
+Recently, I expanded into game localization (English to Brazilian Portuguese), which sparked a new professional interest and broadened my capabilities. Additionally, I contributed to the development of Fortnite Creator-Made Islands for the LEGO® Summer Arcade Series competition, combining creativity and technical knowledge in a new way.
 
 ### Tools used through the years:
 
@@ -17,10 +17,11 @@ Most recently, I had the opportunity to engage in game localization from English
 * **Jenkins and Teamcity** to get new build versions
 * **Firebase with Crashlytics** for crash monitoring
 * **Unity** for direct engine build testing and coding as a hobby
+* **Unreal Editor for Fortnite** for Fortnite Islands creation.
 
 ### Platforms tested on:
 
-* Steam PC
+* Steam, Gamepass and Epic Games on PC
 * Nintendo Switch
 * Playstation 5
 * Android
@@ -41,9 +42,9 @@ Most recently, I had the opportunity to engage in game localization from English
 | **Fire Hose Games** |
 | **Techtonica** |
 | [![](https://img.youtube.com/vi/_IB2LLH3yY4/0.jpg)](https://www.youtube.com/watch?v=_IB2LLH3yY4) |
-| **Big Moxi Games** |
-| **ExoGP** |
-| [![](https://img.youtube.com/vi/AKiI4p1jxUI/0.jpg)](https://www.youtube.com/watch?v=AKiI4p1jxUI) |
+| **Big Moxi Games** | 
+| **ExoGP** | **Fortnite Creator-made Islands** |
+| [![](https://img.youtube.com/vi/AKiI4p1jxUI/0.jpg)](https://www.youtube.com/watch?v=AKiI4p1jxUI) | [![](https://img.youtube.com/vi/n_ABeFiJ6wo/0.jpg)](https://www.youtube.com/watch?v=n_ABeFiJ6wo) |
 
 
 
