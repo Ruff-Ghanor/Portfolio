@@ -17,7 +17,7 @@ Recently, I expanded into game localization (English to Brazilian Portuguese), w
 * **Jenkins and Teamcity** to get new build versions
 * **Firebase with Crashlytics** for crash monitoring
 * **Unity** for direct engine build testing and coding as a hobby
-* **Unreal Editor for Fortnite** for Fortnite Islands creation.
+* **Unreal Editor for Fortnite (UEFN)** to create custom islands
 
 ### Platforms tested on:
 
