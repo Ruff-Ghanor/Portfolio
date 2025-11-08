@@ -33,6 +33,9 @@ Recently, I expanded into game localization (English to Brazilian Portuguese), w
 | ----------- | ----------- | ----------- |
 | **League of Legends** | **Valorant** | **Legends of Runeterra** |
 | [![](https://img.youtube.com/vi/FiSNHAJHu-c/0.jpg)](https://www.youtube.com/watch?v=FiSNHAJHu-c) | [![](https://img.youtube.com/vi/IhhjcB2ZjIM/0.jpg)](https://www.youtube.com/watch?v=IhhjcB2ZjIM) | [![](https://img.youtube.com/vi/zDS1qCrFuCU/0.jpg)](https://www.youtube.com/watch?v=zDS1qCrFuCU) |
+| **Versus Evil** | 
+| **Unmetal** | **Gotham Knights** |
+| [![](https://img.youtube.com/vi/7X4x_VBwtN0/0.jpg)]([https://www.youtube.com/watch?v=BtyBjOW8sGY](https://www.youtube.com/watch?v=7X4x_VBwtN0)) |
 | **Warner Bros. Games** | 
 | **Hogwarts Legacy** | **Gotham Knights** |
 | [![](https://img.youtube.com/vi/BtyBjOW8sGY/0.jpg)](https://www.youtube.com/watch?v=BtyBjOW8sGY) | [![](https://img.youtube.com/vi/IhVf_3TeTQE/0.jpg)](https://www.youtube.com/watch?v=IhVf_3TeTQE) |
